@@ -1,0 +1,4114 @@
+canonical_identifier: bkk:krp/KR3ep016/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep016/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孫文垣醫案
+  identifiers:
+    krp: KR3ep016
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep016.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep016_000-jc.yaml, hash: 'sha256:af2e9681854ca274e18d5212d58a463bfa2b4ce13d33c34f5ad08444234ab285'}
+  - {seq: 1, filename: KR3ep016_001-jc.yaml, hash: 'sha256:aa035caeb50107cb7226c7971e19f5be4795497fd4da5a8b4fb66ddecb67b271'}
+  - {seq: 2, filename: KR3ep016_002-jc.yaml, hash: 'sha256:991478cb70d30653bf52f778a1808311f24a406a8a2a6d7a805ad93006672aeb'}
+  - {seq: 3, filename: KR3ep016_003-jc.yaml, hash: 'sha256:f1534aaff38b2559add1ad711eb22dd7ea6235b091556a988542d58a4baf9796'}
+  - {seq: 4, filename: KR3ep016_004-jc.yaml, hash: 'sha256:fa3d652b8085b619cdeeac56fc035fb274ed6a7598fc807b8442aec26e4e297b'}
+  - {seq: 5, filename: KR3ep016_005-jc.yaml, hash: 'sha256:fd45aee0230f8629dcc41b3bd4cbd2426e816ac035072c765ca5d71b5b58c816'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep016_000-jc.markers.yaml, hash: 'sha256:9a1b6b0183720a71406ec2fed7e9c8ac5acb1ed645767a833fb4c5f1dff212a3'}
+  - {seq: 1, role: markers, filename: assets/KR3ep016_001-jc.markers.yaml, hash: 'sha256:74549efc3b097dddb2cb62f9e8129e075e570cf9d5e805e611f4547dcfe12ed6'}
+  - {seq: 2, role: markers, filename: assets/KR3ep016_002-jc.markers.yaml, hash: 'sha256:762a875448a5f5752ebda2df4f40fc92c2ee921c1d04c14a7b6e84651988cb82'}
+  - {seq: 3, role: markers, filename: assets/KR3ep016_003-jc.markers.yaml, hash: 'sha256:9cdea118590d632c90274b8dde866799abbed24272e4c162da5579c8d19b1049'}
+  - {seq: 4, role: markers, filename: assets/KR3ep016_004-jc.markers.yaml, hash: 'sha256:37a85cb4cf435712807d6eebf3a385d4615ec04befd20efa4bf978288c465710'}
+  - {seq: 5, role: markers, filename: assets/KR3ep016_005-jc.markers.yaml, hash: 'sha256:e4faeb2bf2f0fe8288356570880bcb2e585511fe1c85e7ac8236ad6be2fb846d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep016_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 864
+  label: 孫序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 19806
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 19806
+  label: 三吳治驗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d2
+    span:
+    - body
+    - 6
+    - 690
+  label: 萬曆龍飛二年吳小峰小川目疾
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d3
+    span:
+    - body
+    - 690
+    - 1004
+  label: 萬曆甲戌沈中丞案
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d4
+    span:
+    - body
+    - 1004
+    - 1214
+  label: 張孝廉後渠大頭疫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d5
+    span:
+    - body
+    - 1214
+    - 1749
+  label: 吳江孫行人痛風有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d6
+    span:
+    - body
+    - 1749
+    - 2642
+  label: 鄭都諫公子痘有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d7
+    span:
+    - body
+    - 2642
+    - 3300
+  label: 張文學子心病虛弱有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d8
+    span:
+    - body
+    - 3300
+    - 3683
+  label: 大宗伯董潯陽翁脾胃疾有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d9
+    span:
+    - body
+    - 3683
+    - 4113
+  label: 董龍山夫人便血
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d10
+    span:
+    - body
+    - 4113
+    - 4947
+  label: 馬廚瘧痢併發有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d11
+    span:
+    - body
+    - 4947
+    - 5917
+  label: 吳肖峰令政腹痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d12
+    span:
+    - body
+    - 5917
+    - 6303
+  label: 大光祿龐太夫人寒熱頭痛飽悶
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d13
+    span:
+    - body
+    - 6303
+    - 6716
+  label: 光祿公痰火脅痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d14
+    span:
+    - body
+    - 6716
+    - 7111
+  label: 張思軒夫人心痹有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d15
+    span:
+    - body
+    - 7111
+    - 8258
+  label: 馬迪庵公內傷腹脹大小便不利有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d16
+    span:
+    - body
+    - 8258
+    - 8431
+  label: 潘大司馬腸風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d17
+    span:
+    - body
+    - 8431
+    - 8651
+  label: 馬鳳林內子隱疾有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d18
+    span:
+    - body
+    - 8651
+    - 9018
+  label: 舜田臧公氣虛中滿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d19
+    span:
+    - body
+    - 9018
+    - 9383
+  label: 金溪令君臧老夫人大頭疫有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d20
+    span:
+    - body
+    - 9383
+    - 10022
+  label: 潘見所公半身不遂有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d21
+    span:
+    - body
+    - 10022
+    - 10468
+  label: 見所公白濁有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d22
+    span:
+    - body
+    - 10468
+    - 10662
+  label: 凌夫人孕
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d23
+    span:
+    - body
+    - 10662
+    - 10965
+  label: 金元岩令眷產後痢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d24
+    span:
+    - body
+    - 10965
+    - 11468
+  label: 沈別駕夫人產後發熱有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d25
+    span:
+    - body
+    - 11468
+    - 11703
+  label: 吳太夫人白帶
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d26
+    span:
+    - body
+    - 11703
+    - 11840
+  label: 吳北海令政經行四肢累累發塊紅紫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d27
+    span:
+    - body
+    - 11840
+    - 12053
+  label: 周芻玉白濁
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d28
+    span:
+    - body
+    - 12053
+    - 12471
+  label: 竹匠婦妊娠吐血胸腹脹痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d29
+    span:
+    - body
+    - 12471
+    - 12766
+  label: 李妓夢遺咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d30
+    span:
+    - body
+    - 12766
+    - 13088
+  label: 金妓時疫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d31
+    span:
+    - body
+    - 13088
+    - 13301
+  label: 曹鏜胸膈不暢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d32
+    span:
+    - body
+    - 13301
+    - 13629
+  label: 李雙痛風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d33
+    span:
+    - body
+    - 13629
+    - 13927
+  label: 沈別駕門下老僕三陽合病有發明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d34
+    span:
+    - body
+    - 13927
+    - 14117
+  label: 蔡中林內人陽明少陽合病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d35
+    span:
+    - body
+    - 14117
+    - 14376
+  label: 吳九宜先生早晨泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d36
+    span:
+    - body
+    - 14376
+    - 14518
+  label: 沈大官左膝腫痛不能起止
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d37
+    span:
+    - body
+    - 14518
+    - 14781
+  label: 沈繼庵下痢脫肛內人乾霍亂
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d38
+    span:
+    - body
+    - 14781
+    - 14970
+  label: 沈晴岳先生五更耳鳴
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d39
+    span:
+    - body
+    - 14970
+    - 15106
+  label: 潘景宇內人頭痛作瀉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d40
+    span:
+    - body
+    - 15106
+    - 15490
+  label: 臧六老上吐血下瀉血
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d41
+    span:
+    - body
+    - 15490
+    - 15743
+  label: 臧氏婦臍邊痛下痢紅白
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d42
+    span:
+    - body
+    - 15743
+    - 16246
+  label: 丁耀川令堂吐血左胯肛門互換作痛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d43
+    span:
+    - body
+    - 16246
+    - 16385
+  label: 丁文學令姊暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d44
+    span:
+    - body
+    - 16385
+    - 16874
+  label: 金良美咳嗽吐紅潮熱左脅不能臥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d45
+    span:
+    - body
+    - 16874
+    - 17075
+  label: 倪五娘子口眼歪斜
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d46
+    span:
+    - body
+    - 17075
+    - 17279
+  label: 王祖泉令政頭痛惡寒汗出如雨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d47
+    span:
+    - body
+    - 17279
+    - 17678
+  label: 溫巽橋子婦滯下
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d48
+    span:
+    - body
+    - 17678
+    - 17842
+  label: 溫一渠內人血虛咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d49
+    span:
+    - body
+    - 17842
+    - 18050
+  label: 溫巽橋二令媳產後脅脹痛白帶如膿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d50
+    span:
+    - body
+    - 18050
+    - 18224
+  label: 溫天衢病目吐血
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d51
+    span:
+    - body
+    - 18224
+    - 18343
+  label: 張二娘子孕七月嘔吐不止
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d52
+    span:
+    - body
+    - 18343
+    - 18432
+  label: 王敬泉內眷痰嗽腹脹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d53
+    span:
+    - body
+    - 18432
+    - 18538
+  label: 溫南溪內人大便秘結
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d54
+    span:
+    - body
+    - 18538
+    - 18686
+  label: 陳春野公令愛丁奚疳痢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d55
+    span:
+    - body
+    - 18686
+    - 18966
+  label: 潘敬齋令媳血下筋膜如手大者一二桶
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d56
+    span:
+    - body
+    - 18966
+    - 19075
+  label: 張懷赤公早晨泄瀉下元虛寒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d57
+    span:
+    - body
+    - 19075
+    - 19317
+  label: 臧七房二老夫人痢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d58
+    span:
+    - body
+    - 19317
+    - 19592
+  label: 蔡樂川令眷頭痛如破
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep016_jc_001-d3.d2d59
+    span:
+    - body
+    - 19592
+    - 19806
+  label: 周蘆汀乃眷胃脘痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 22313
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 22313
+  label: 三吳治驗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d2
+    span:
+    - body
+    - 6
+    - 295
+  label: 王文川令郎內傷發黃有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d3
+    span:
+    - body
+    - 295
+    - 427
+  label: 施涇陽先生內人痰火
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d4
+    span:
+    - body
+    - 427
+    - 668
+  label: 屠侍軒尊眷產昏憒不知人事
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d5
+    span:
+    - body
+    - 668
+    - 734
+  label: 屠學恆乃眷產後作瀉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d6
+    span:
+    - body
+    - 734
+    - 890
+  label: 周鑑泉令政傷寒譫語
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d7
+    span:
+    - body
+    - 890
+    - 991
+  label: 臧顧渚老先生兩耳焮癢
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d8
+    span:
+    - body
+    - 991
+    - 1136
+  label: 王南崗咳嗽氣湧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d9
+    span:
+    - body
+    - 1136
+    - 1337
+  label: 張桃津乃政小產後臍下痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d10
+    span:
+    - body
+    - 1337
+    - 1597
+  label: 陳光祿五更胸膈飽脹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d11
+    span:
+    - body
+    - 1597
+    - 1711
+  label: 溧水令君夫人五更倒飽泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d12
+    span:
+    - body
+    - 1711
+    - 2033
+  label: 李悅齋夫人腹痛譫語如狂鼻衄有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d13
+    span:
+    - body
+    - 2033
+    - 2358
+  label: 吳仲峰脾泄
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d14
+    span:
+    - body
+    - 2358
+    - 2493
+  label: 張後谿令孫瘡疥發腫
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d15
+    span:
+    - body
+    - 2493
+    - 2598
+  label: 張五橋夫人喘嗽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d16
+    span:
+    - body
+    - 2598
+    - 2766
+  label: 方東野脊骨痛牽引胸腹皆痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d17
+    span:
+    - body
+    - 2766
+    - 2846
+  label: 張淨宇發熱腹痛泄瀉嘔吐
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d18
+    span:
+    - body
+    - 2846
+    - 2928
+  label: 張近川胃脘痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d19
+    span:
+    - body
+    - 2928
+    - 3066
+  label: 閔文川公肛生一毒膿潰不收口
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d20
+    span:
+    - body
+    - 3066
+    - 3351
+  label: 李古愚胸膈飽悶大便溏泄
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d21
+    span:
+    - body
+    - 3351
+    - 3545
+  label: 姚惠齋夜多泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d22
+    span:
+    - body
+    - 3545
+    - 3644
+  label: 姚老夫人右手疼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d23
+    span:
+    - body
+    - 3644
+    - 3764
+  label: 一僕時疫頭痛發熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d24
+    span:
+    - body
+    - 3764
+    - 3896
+  label: 一僕時疫頭痛如破
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d25
+    span:
+    - body
+    - 3896
+    - 4157
+  label: 一僕時疫嘔吐煩躁口渴
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d26
+    span:
+    - body
+    - 4157
+    - 4311
+  label: 馬鳳陽咳嗽內熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d27
+    span:
+    - body
+    - 4311
+    - 4405
+  label: 倪二南內人小水不禁
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d28
+    span:
+    - body
+    - 4405
+    - 4615
+  label: 嚴柱史令媳腹中有塊疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d29
+    span:
+    - body
+    - 4615
+    - 4974
+  label: 陳鹿塘腸風臟毒大便燥結
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d30
+    span:
+    - body
+    - 4974
+    - 5139
+  label: 張道南內人腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d31
+    span:
+    - body
+    - 5139
+    - 5224
+  label: 張道南尊堂膈上痰飲痞而噁心
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d32
+    span:
+    - body
+    - 5224
+    - 5362
+  label: 馬迪庵內人奇痰症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d33
+    span:
+    - body
+    - 5362
+    - 5548
+  label: 董老夫人眩暈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d34
+    span:
+    - body
+    - 5548
+    - 5657
+  label: 張裕齋惡寒發呃
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d35
+    span:
+    - body
+    - 5657
+    - 5879
+  label: 嚴老夫人胸膈痞悶
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d36
+    span:
+    - body
+    - 5879
+    - 6031
+  label: 王谷泉頭眩泄瀉汗出不止
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d37
+    span:
+    - body
+    - 6031
+    - 6173
+  label: 方東野兩脅痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d38
+    span:
+    - body
+    - 6173
+    - 6237
+  label: 一婦懷孕內熱咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d39
+    span:
+    - body
+    - 6237
+    - 6332
+  label: 一婦心痛唇紅蟲痛症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d40
+    span:
+    - body
+    - 6332
+    - 6424
+  label: 倪二南內人小產小腹痛暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d41
+    span:
+    - body
+    - 6424
+    - 6523
+  label: 倪少南右頰車浮腫疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d42
+    span:
+    - body
+    - 6523
+    - 6616
+  label: 倪少南內人經行如崩頭暈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d43
+    span:
+    - body
+    - 6616
+    - 6739
+  label: 高仰山內人痔血裡急後重
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d44
+    span:
+    - body
+    - 6739
+    - 6818
+  label: 姚娘子小腹疼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d45
+    span:
+    - body
+    - 6818
+    - 6954
+  label: 張五橋先生令政痰喘咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d46
+    span:
+    - body
+    - 6954
+    - 7267
+  label: 徐文學三泉令郎右脅脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d47
+    span:
+    - body
+    - 7267
+    - 7354
+  label: 王祖泉乃眷遍身痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d48
+    span:
+    - body
+    - 7354
+    - 7432
+  label: 費少垣乃眷孕痰喘胎逆
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d49
+    span:
+    - body
+    - 7432
+    - 7536
+  label: 費一吾令政孕子淋
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d50
+    span:
+    - body
+    - 7536
+    - 7646
+  label: 六娘子遍身痛汗大出昏昏如醉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d51
+    span:
+    - body
+    - 7646
+    - 7719
+  label: 八娘子頭痛咳嗽痰多有血
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d52
+    span:
+    - body
+    - 7719
+    - 7875
+  label: 姚弁山內人胸脅痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d53
+    span:
+    - body
+    - 7875
+    - 8070
+  label: 李坦渠令子室咳嗽心痛腰疼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d54
+    span:
+    - body
+    - 8070
+    - 8244
+  label: 周衡宇咯血痰火作痞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d55
+    span:
+    - body
+    - 8244
+    - 8386
+  label: 張分守腰膝痠痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d56
+    span:
+    - body
+    - 8386
+    - 8492
+  label: 鄭春寰頭痛內熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d57
+    span:
+    - body
+    - 8492
+    - 8575
+  label: 徐老夫人胸膈痞悶
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d58
+    span:
+    - body
+    - 8575
+    - 8665
+  label: 張麗川咳嗽多痰糞門發瘻
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d59
+    span:
+    - body
+    - 8665
+    - 8854
+  label: 陳仰山內人小產二月而血大下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d60
+    span:
+    - body
+    - 8854
+    - 8987
+  label: 張溪亭乃眷喉中梗梗有肉如炙臠
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d61
+    span:
+    - body
+    - 8987
+    - 9145
+  label: 張溪亭令媳夢亡過祖母打其背
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d62
+    span:
+    - body
+    - 9145
+    - 9498
+  label: 陳茂之勞倦色欲傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d63
+    span:
+    - body
+    - 9498
+    - 9754
+  label: 陳五山胃脘痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d64
+    span:
+    - body
+    - 9754
+    - 9862
+  label: 吳小峰酒積作痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d65
+    span:
+    - body
+    - 9862
+    - 9975
+  label: 沈大參痰飲痞滿
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d66
+    span:
+    - body
+    - 9975
+    - 10147
+  label: 王敬泉胸膈飽悶頭暈作吐
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d67
+    span:
+    - body
+    - 10147
+    - 10374
+  label: 張二官傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d68
+    span:
+    - body
+    - 10374
+    - 11061
+  label: 大司馬令媳產後暈厥發狂有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d69
+    span:
+    - body
+    - 11061
+    - 11258
+  label: 孝廉臧茗泉瘧後作痢
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d70
+    span:
+    - body
+    - 11258
+    - 11342
+  label: 包繼可先生令眷孕而發瘧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d71
+    span:
+    - body
+    - 11342
+    - 11762
+  label: 一張氏婦心神不足肺經有痰
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d72
+    span:
+    - body
+    - 11762
+    - 12602
+  label: 吳比部公子眼病有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d73
+    span:
+    - body
+    - 12602
+    - 13098
+  label: 丘太守令侄筋痿有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d74
+    span:
+    - body
+    - 13098
+    - 13422
+  label: 一書辦下消
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d75
+    span:
+    - body
+    - 13422
+    - 13542
+  label: 韓僉憲令媳怒後夜臥不安
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d76
+    span:
+    - body
+    - 13542
+    - 13698
+  label: 韓老婦人夜來臍腹痛甚
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d77
+    span:
+    - body
+    - 13698
+    - 13858
+  label: 丁震瀾令郎瘧母
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d78
+    span:
+    - body
+    - 13858
+    - 14455
+  label: 孫令君令媳產後譫語發熱泄瀉有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d79
+    span:
+    - body
+    - 14455
+    - 15434
+  label: 吳東星先生楊梅風毒有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d80
+    span:
+    - body
+    - 15434
+    - 15828
+  label: 潘見所老先生小盛价疳積有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d81
+    span:
+    - body
+    - 15828
+    - 16307
+  label: 凌繹泉翁痰火吐紅喘嗽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d82
+    span:
+    - body
+    - 16307
+    - 16769
+  label: 周鳳亭濕熱壅滯發熱煩躁有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d83
+    span:
+    - body
+    - 16769
+    - 16997
+  label: 周採石濕熱生痰痞悶
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d84
+    span:
+    - body
+    - 16997
+    - 17318
+  label: 又令孫女龜背
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d85
+    span:
+    - body
+    - 17318
+    - 18094
+  label: 閔蜃樓虛損咳嗽令眷痛風奇疾有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d86
+    span:
+    - body
+    - 18094
+    - 18266
+  label: 金寄閒令堂痢而胸膈膨脹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d87
+    span:
+    - body
+    - 18266
+    - 18533
+  label: 徐中宇之婦汗出如雨昏昏憒憒胸膈要人足踹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d88
+    span:
+    - body
+    - 18533
+    - 18747
+  label: 金達泉令政孕三月而痢赤白
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d89
+    span:
+    - body
+    - 18747
+    - 19038
+  label: 金元岩赤白痢
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d90
+    span:
+    - body
+    - 19038
+    - 19320
+  label: 金達泉瘧痢交作
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d91
+    span:
+    - body
+    - 19320
+    - 19512
+  label: 金寄閒少陽陽明合病為瘧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d92
+    span:
+    - body
+    - 19512
+    - 20124
+  label: 淮陰胡少泉令郎夢遺令愛發熱咳嗽又友人奇疾
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d93
+    span:
+    - body
+    - 20124
+    - 20653
+  label: 吳氏婦隱疾有發明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d94
+    span:
+    - body
+    - 20653
+    - 21034
+  label: 染匠之婦腸癰
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d95
+    span:
+    - body
+    - 21034
+    - 21200
+  label: 王祖泉臟毒下血
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d96
+    span:
+    - body
+    - 21200
+    - 21928
+  label: 南都大司馬發熱燥渴
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep016_jc_002-d4.d2d97
+    span:
+    - body
+    - 21928
+    - 22313
+  label: 崔百原公右脅痛右手足痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 24368
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 24368
+  label: 新都治驗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d2
+    span:
+    - body
+    - 6
+    - 327
+  label: 瓊兄內傷飲食外感風邪
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d3
+    span:
+    - body
+    - 327
+    - 461
+  label: 程龍邱翁每行動即作熱發渴嘔惡腰與環跳穴常痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d4
+    span:
+    - body
+    - 461
+    - 745
+  label: 汪松崗原傷於酒夜分發熱咳嗽咯血
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d5
+    span:
+    - body
+    - 745
+    - 931
+  label: 族妹經不行者八十日每飲食入腹即疼痛吐出乃止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d6
+    span:
+    - body
+    - 931
+    - 1012
+  label: 孫華野喉頰車腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d7
+    span:
+    - body
+    - 1012
+    - 1108
+  label: 顯兄每辛苦及酒多則咯血數口
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d8
+    span:
+    - body
+    - 1108
+    - 1391
+  label: 吳遂兄濕熱發黃
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d9
+    span:
+    - body
+    - 1391
+    - 1763
+  label: 族侄明之痰火上逆大吐痰沫因而嘔血一湧數碗有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d10
+    span:
+    - body
+    - 1763
+    - 1949
+  label: 族嫂程氏肺癰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d11
+    span:
+    - body
+    - 1949
+    - 2052
+  label: 侄媳葉氏身面四肢浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d12
+    span:
+    - body
+    - 2052
+    - 2325
+  label: 族侄孫伍仲善飲好內小便血淋疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d13
+    span:
+    - body
+    - 2325
+    - 2403
+  label: 令眷吐紅髮熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d14
+    span:
+    - body
+    - 2403
+    - 2466
+  label: 亮卿令愛右目紅腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d15
+    span:
+    - body
+    - 2466
+    - 2576
+  label: 太學少竹眼紅腫脹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d16
+    span:
+    - body
+    - 2576
+    - 2667
+  label: 一僕婦產後惡露不盡腹中作痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d17
+    span:
+    - body
+    - 2667
+    - 2729
+  label: 程好吾令孫右耳後生毒腫痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d18
+    span:
+    - body
+    - 2729
+    - 2867
+  label: 華岳令堂右手臂肢節脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d19
+    span:
+    - body
+    - 2867
+    - 2953
+  label: 程兩峰令眷血痢
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d20
+    span:
+    - body
+    - 2953
+    - 3168
+  label: 程七護兄臍腹右邊疼痛小水不利嘔吐不進食
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d21
+    span:
+    - body
+    - 3168
+    - 3360
+  label: 程社貴兄醉後御色次早胃脘痛極
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d22
+    span:
+    - body
+    - 3360
+    - 3429
+  label: 汪松崗令眷左脅痛咳嗽內熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d23
+    span:
+    - body
+    - 3429
+    - 3514
+  label: 贊皇令堂產後左脅痛甚
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d24
+    span:
+    - body
+    - 3514
+    - 3763
+  label: 許少峰中風先兆
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d25
+    span:
+    - body
+    - 3763
+    - 3899
+  label: 朱宅女眷熱入血室
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d26
+    span:
+    - body
+    - 3899
+    - 4146
+  label: 孫熙宇肢節腫痛痰多嘔惡病多夢鬼
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d27
+    span:
+    - body
+    - 4146
+    - 4335
+  label: 愛泉傷風咳嗽聲啞右邊不能貼席
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d28
+    span:
+    - body
+    - 4335
+    - 4637
+  label: 侄婦戴氏有妊五月忽血大下午後發熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d29
+    span:
+    - body
+    - 4637
+    - 4750
+  label: 靈岳乃眷胃脘疼痛頭暈舌麻
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d30
+    span:
+    - body
+    - 4750
+    - 4982
+  label: 吳人峰先生內人兩脅脹急痛抵胃脘
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d31
+    span:
+    - body
+    - 4982
+    - 5098
+  label: 陳鐵兄內人產後腹痛發熱下痢膿血
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d32
+    span:
+    - body
+    - 5098
+    - 5586
+  label: 程石洲乃眷因產難子死憂悶小腹有塊作痛復因多食圓眼腹益大脹堅如石大如斗氣促不安有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d33
+    span:
+    - body
+    - 5586
+    - 5684
+  label: 程嫗年八旬頭暈腳軟大便溏泄小水淋瀝
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d34
+    span:
+    - body
+    - 5684
+    - 6105
+  label: 程道吾先生令眷夜魘而驚時常暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d35
+    span:
+    - body
+    - 6105
+    - 6262
+  label: 一僕婦瘟疫以勞食復作
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d36
+    span:
+    - body
+    - 6262
+    - 6838
+  label: 程方塘年六十四風癱不能步者三載腿肉盡消
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d37
+    span:
+    - body
+    - 6838
+    - 7009
+  label: 汪省吾瘧三日一發發於夜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d38
+    span:
+    - body
+    - 7009
+    - 7745
+  label: 汪東之丈七月初旬虛陽口瘡有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d39
+    span:
+    - body
+    - 7745
+    - 7826
+  label: 令眷妊中咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d40
+    span:
+    - body
+    - 7826
+    - 8012
+  label: 吳東渠瘧後虛憊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d41
+    span:
+    - body
+    - 8012
+    - 8201
+  label: 吳西源令眷以艱子多郁多思肌肉盡削皮膚燥揭遍身生瘡體如火燎
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d42
+    span:
+    - body
+    - 8201
+    - 8349
+  label: 族嫂程氏環跳穴邊腫痛寒熱併發不能動止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d43
+    span:
+    - body
+    - 8349
+    - 8602
+  label: 恆宇瘡後遭跌環跳脫出不能復收
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d44
+    span:
+    - body
+    - 8602
+    - 8927
+  label: 侄孫女周歲發慢驚
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d45
+    span:
+    - body
+    - 8927
+    - 9059
+  label: 程少湖以飲生酒面浮胸脹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d46
+    span:
+    - body
+    - 9059
+    - 9524
+  label: 吳鬥一原有腸風又感風邪發熱多痰腹痛下痢
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d47
+    span:
+    - body
+    - 9524
+    - 9617
+  label: 堪輿張錫泉先生左脅皮裡膜外疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d48
+    span:
+    - body
+    - 9617
+    - 9806
+  label: 族侄云岳偏墜臍腹腰俞脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d49
+    span:
+    - body
+    - 9806
+    - 9901
+  label: 一婦妙齡感風寒致成鼻淵
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d50
+    span:
+    - body
+    - 9901
+    - 10502
+  label: 程兩峰瘀血發黃吐出穢惡如爛豬肺狀大便色如墨有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d51
+    span:
+    - body
+    - 10502
+    - 10626
+  label: 予表嫂小產後腹痛暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d52
+    span:
+    - body
+    - 10626
+    - 11090
+  label: 陳士美傷寒熱症漏底有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d53
+    span:
+    - body
+    - 11090
+    - 11180
+  label: 程松逸兄酒疸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d54
+    span:
+    - body
+    - 11180
+    - 11668
+  label: 仲諫患跨馬癰有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d55
+    span:
+    - body
+    - 11668
+    - 11850
+  label: 一婦咳嗽痰中有紅
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d56
+    span:
+    - body
+    - 11850
+    - 12030
+  label: 族侄春溫鼻衄寒戰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d57
+    span:
+    - body
+    - 12030
+    - 12273
+  label: 汪氏婦腹脹如斗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d58
+    span:
+    - body
+    - 12273
+    - 12910
+  label: 仲登陽症似陰有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d59
+    span:
+    - body
+    - 12910
+    - 13299
+  label: 汪希明性躁痰火咳嗽吐紅
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d60
+    span:
+    - body
+    - 13299
+    - 13609
+  label: 祝弘吾潮熱咳嗽汗流不止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d61
+    span:
+    - body
+    - 13609
+    - 13724
+  label: 汪宥翁老年勞倦感冒胸膈大熱而痞
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d62
+    span:
+    - body
+    - 13724
+    - 13857
+  label: 汪鏈兄內人經水紫黑血塊不止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d63
+    span:
+    - body
+    - 13857
+    - 14063
+  label: 程相如令政妊發寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d64
+    span:
+    - body
+    - 14063
+    - 14246
+  label: 余文臺壯年咳嗽吐紅
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d65
+    span:
+    - body
+    - 14246
+    - 14420
+  label: 邵伯成女經行而浴感冒大發寒熱嘔吐煩躁
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d66
+    span:
+    - body
+    - 14420
+    - 14643
+  label: 金氏婦血崩後四肢浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d67
+    span:
+    - body
+    - 14643
+    - 15071
+  label: 張雲門令郎囊癰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d68
+    span:
+    - body
+    - 15071
+    - 15411
+  label: 朱宅內眷懷妊受驚而成子懸有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d69
+    span:
+    - body
+    - 15411
+    - 15644
+  label: 胡鄰泉女吐血潮熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d70
+    span:
+    - body
+    - 15644
+    - 15725
+  label: 汪思石令堂怒後暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d71
+    span:
+    - body
+    - 15725
+    - 15928
+  label: 侄孫君實遍身筋骨痛如虎齧
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d72
+    span:
+    - body
+    - 15928
+    - 16219
+  label: 葉子黑內人疫後虛憊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d73
+    span:
+    - body
+    - 16219
+    - 16590
+  label: 孫如亭令政右眼眥突生白泡二寸余嘔吐眩暈有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d74
+    span:
+    - body
+    - 16590
+    - 17228
+  label: 吳勉齋腹痛欲死有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d75
+    span:
+    - body
+    - 17228
+    - 17369
+  label: 黃頤齋內子產未彌月醉犯房事血來如崩
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d76
+    span:
+    - body
+    - 17369
+    - 17473
+  label: 程心章兄頰腮紅腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d77
+    span:
+    - body
+    - 17473
+    - 17583
+  label: 程六十喘後發腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d78
+    span:
+    - body
+    - 17583
+    - 17882
+  label: 程七護丈發熱背痛伏梁積塊下痢紅白
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d79
+    span:
+    - body
+    - 17882
+    - 18103
+  label: 程孺人黃氏春溫過時熱病
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d80
+    span:
+    - body
+    - 18103
+    - 18248
+  label: 程有望孺人月汛當止不止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d81
+    span:
+    - body
+    - 18248
+    - 18689
+  label: 上舍近洲胸膈脹痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d82
+    span:
+    - body
+    - 18689
+    - 20374
+  label: 黃源金先生內人吐血泄瀉發喘有大發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d83
+    span:
+    - body
+    - 20374
+    - 20706
+  label: 孫合溪翁八旬而發寒熱咳嗽汗出不止呃呃連聲
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d84
+    span:
+    - body
+    - 20706
+    - 20954
+  label: 孝廉方叔度令嫂江氏脹滿
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d85
+    span:
+    - body
+    - 20954
+    - 21442
+  label: 吳天威丈便癰有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d86
+    span:
+    - body
+    - 21442
+    - 22322
+  label: 文貴者明疫漏底發熱譫語有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d87
+    span:
+    - body
+    - 22322
+    - 23050
+  label: 鍾澤程夢奎孺人哭子過傷因發寒熱有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d88
+    span:
+    - body
+    - 23050
+    - 23744
+  label: 歙潛口汪召南丈令郎蠱脹有發明
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep016_jc_003-d5.d2d89
+    span:
+    - body
+    - 23744
+    - 24368
+  label: 岩鎮鄭景南丈痰飲積塊跳動不止有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 27173
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 27173
+  label: 新都治驗
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d2
+    span:
+    - body
+    - 6
+    - 133
+  label: 孫子元瘡後沐浴鼻出紅涕面足浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d3
+    span:
+    - body
+    - 133
+    - 344
+  label: 一婦食積痰飲瘀血流於下部左跨臍腹脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d4
+    span:
+    - body
+    - 344
+    - 511
+  label: 恆宇令堂左肩筋搐腫痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d5
+    span:
+    - body
+    - 511
+    - 644
+  label: 孫君錫頭痛胸背脹飲食作吐咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d6
+    span:
+    - body
+    - 644
+    - 882
+  label: 孫爾嘉內人三妊而三小產
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d7
+    span:
+    - body
+    - 882
+    - 1002
+  label: 孫薇垣內人咳唾紅痰
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d8
+    span:
+    - body
+    - 1002
+    - 1165
+  label: 戴萬奇丈中痰後而右手不能動
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d9
+    span:
+    - body
+    - 1165
+    - 1314
+  label: 族文學內眷頭痛玉戶撮急肛門逼迫遍身皆疼
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d10
+    span:
+    - body
+    - 1314
+    - 1404
+  label: 梓林兄內眷右手痛風小水頻迫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d11
+    span:
+    - body
+    - 1404
+    - 1565
+  label: 一婦經閉三月泄瀉嘈雜吐酸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d12
+    span:
+    - body
+    - 1565
+    - 1691
+  label: 程氏婦下午喉痛痰多暈厥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d13
+    span:
+    - body
+    - 1691
+    - 1805
+  label: 汪鋹兄時疫熱病汗出不止
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d14
+    span:
+    - body
+    - 1805
+    - 1952
+  label: 何明吾時疫食復不省人事循衣摸床
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d15
+    span:
+    - body
+    - 1952
+    - 2106
+  label: 孫元素春溫食復發斑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d16
+    span:
+    - body
+    - 2106
+    - 2579
+  label: 孫安飢勞感疫食復發斑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d17
+    span:
+    - body
+    - 2579
+    - 2718
+  label: 一人喉痛夜臥氣壅面足浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d18
+    span:
+    - body
+    - 2718
+    - 2822
+  label: 何洗心虛寒腎泄
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d19
+    span:
+    - body
+    - 2822
+    - 2902
+  label: 程湘孺人鼻衄後眩暈嘈雜嘔吐清水
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d20
+    span:
+    - body
+    - 2902
+    - 3233
+  label: 孫君孝春溫誤作陰虛治
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d21
+    span:
+    - body
+    - 3233
+    - 3379
+  label: 一僕婦頭疼喉痛咳嗽嘔惡胸膈作脹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d22
+    span:
+    - body
+    - 3379
+    - 3527
+  label: 族侄婦範氏乳癰
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d23
+    span:
+    - body
+    - 3527
+    - 3624
+  label: 表侄女黃氏孕七月患血痢
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d24
+    span:
+    - body
+    - 3624
+    - 3883
+  label: 程氏婦小產後患赤痢
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d25
+    span:
+    - body
+    - 3883
+    - 4032
+  label: 孫竹野受暑作吐又傷酒面身黃疸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d26
+    span:
+    - body
+    - 4032
+    - 4230
+  label: 程菊泉暑月喘嗽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d27
+    span:
+    - body
+    - 4230
+    - 4593
+  label: 程應禎兄咳吐紅痰胸背脹痛眩暈
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d28
+    span:
+    - body
+    - 4593
+    - 4736
+  label: 虛山內人胸脅脹痛五更嘈雜
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d29
+    span:
+    - body
+    - 4736
+    - 4881
+  label: 一婦暑月小便不利玉戶腫大便血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d30
+    span:
+    - body
+    - 4881
+    - 5059
+  label: 弟婦戴氏臍腹痛白帶如注裡急後重下痢赤白
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d31
+    span:
+    - body
+    - 5059
+    - 5162
+  label: 族弟應章胃脘當心而痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d32
+    span:
+    - body
+    - 5162
+    - 5347
+  label: 弟淑南三陽合病暑症
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d33
+    span:
+    - body
+    - 5347
+    - 5559
+  label: 一富婦轉脬
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d34
+    span:
+    - body
+    - 5559
+    - 5660
+  label: 文約孺人八十三胃脘疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d35
+    span:
+    - body
+    - 5660
+    - 5757
+  label: 應章弟三陰瘧
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d36
+    span:
+    - body
+    - 5757
+    - 5928
+  label: 程好吾春溫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d37
+    span:
+    - body
+    - 5928
+    - 6061
+  label: 程氏婦屁從子戶出
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d38
+    span:
+    - body
+    - 6061
+    - 6221
+  label: 族子應章之弟十月發三陰瘧
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d39
+    span:
+    - body
+    - 6221
+    - 6535
+  label: 吳中嶽孺人疫後壞症
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d40
+    span:
+    - body
+    - 6535
+    - 6649
+  label: 鮑子五保時疫耳聾泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d41
+    span:
+    - body
+    - 6649
+    - 6746
+  label: 僕子孫守中麻後咳嗽無痰唇厚聲啞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d42
+    span:
+    - body
+    - 6746
+    - 6891
+  label: 僕子得貴春溫頭痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d43
+    span:
+    - body
+    - 6891
+    - 7001
+  label: 元素侄令政春溫後經水適止
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d44
+    span:
+    - body
+    - 7001
+    - 7204
+  label: 朱氏子天送時疾頭疼身若燔炭
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d45
+    span:
+    - body
+    - 7204
+    - 7310
+  label: 朱桃源內人胃脘痛常苦夢遺經水一月二至
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d46
+    span:
+    - body
+    - 7310
+    - 7778
+  label: 桂亭大兄痰積瘀血作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d47
+    span:
+    - body
+    - 7778
+    - 7899
+  label: 熊二官疫後食復
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d48
+    span:
+    - body
+    - 7899
+    - 8104
+  label: 堂弟東里內子咳嗽吐紅
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d49
+    span:
+    - body
+    - 8104
+    - 8435
+  label: 程竹坡內人年六十瘟疫昏憒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d50
+    span:
+    - body
+    - 8435
+    - 8673
+  label: 程內眷新寡七日染疫適值夢泄神昏譫語
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d51
+    span:
+    - body
+    - 8673
+    - 9426
+  label: 太學從明滯下純血有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d52
+    span:
+    - body
+    - 9426
+    - 10653
+  label: 查少川喘後腫脹有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d53
+    span:
+    - body
+    - 10653
+    - 10841
+  label: 夏益吾肢節腫痛手足彎痛腫尤甚
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d54
+    span:
+    - body
+    - 10841
+    - 11187
+  label: 初陽侄內人肺癰
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d55
+    span:
+    - body
+    - 11187
+    - 11383
+  label: 仲木內人氣喘作脹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d56
+    span:
+    - body
+    - 11383
+    - 11463
+  label: 侄孫女十歲大便脫肛鼻中出血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d57
+    span:
+    - body
+    - 11463
+    - 11683
+  label: 唐岩祈患痢赤白腹脹氣喘四肢冷陰囊腫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d58
+    span:
+    - body
+    - 11683
+    - 11974
+  label: 侄婿陳東山患休息痢下皆紫血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d59
+    span:
+    - body
+    - 11974
+    - 12123
+  label: 陳氏婦腸鳴腹痛合目汗出下午潮熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d60
+    span:
+    - body
+    - 12123
+    - 12321
+  label: 九德侄耳鳴
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d61
+    span:
+    - body
+    - 12321
+    - 12526
+  label: 陳覺宇上盛下虛合目亂語痰火吼喘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d62
+    span:
+    - body
+    - 12526
+    - 12941
+  label: 程紹溪中年患鶴膝風有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d63
+    span:
+    - body
+    - 12941
+    - 13082
+  label: 堂嫂程氏喉間有物如臠咯之不出咽之不下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d64
+    span:
+    - body
+    - 13082
+    - 13252
+  label: 一婦產後咳嗽發熱咳出之痰色黑而臭
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d65
+    span:
+    - body
+    - 13252
+    - 13423
+  label: 表嫂孀居二十年右癱不能舉動神情恍惚亂言多悲泣
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d66
+    span:
+    - body
+    - 13423
+    - 13649
+  label: 桂亭大兄墜轎後腰脅脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d67
+    span:
+    - body
+    - 13649
+    - 13723
+  label: 堂嫂王氏吐紫黑血塊足跟焮腫癢痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d68
+    span:
+    - body
+    - 13723
+    - 13908
+  label: 弟婦程氏孕五月痢下膿血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d69
+    span:
+    - body
+    - 13908
+    - 14046
+  label: 嫂汪氏頭疼遍身痛痢下赤白
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d70
+    span:
+    - body
+    - 14046
+    - 14633
+  label: 仲闇氣虛中滿有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d71
+    span:
+    - body
+    - 14633
+    - 15403
+  label: 朱懷竹楊梅毒氣內攻上迫於肺將成肺癰下流陰囊囊潰見子
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d72
+    span:
+    - body
+    - 15403
+    - 15670
+  label: 查良本兄令眷每飲食悉從背後而下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d73
+    span:
+    - body
+    - 15670
+    - 16435
+  label: 後谿大兄孺人戴氏患血痢有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d74
+    span:
+    - body
+    - 16435
+    - 16549
+  label: 邵敬圃乃眷胃脘痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d75
+    span:
+    - body
+    - 16549
+    - 17394
+  label: 蘇望臺患瘧有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d76
+    span:
+    - body
+    - 17394
+    - 17491
+  label: 汪氏嫗寒痰壅滯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d77
+    span:
+    - body
+    - 17491
+    - 17865
+  label: 徐客兄子筋痿風
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d78
+    span:
+    - body
+    - 17865
+    - 17977
+  label: 邵老封君手足麻而無力
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d79
+    span:
+    - body
+    - 17977
+    - 18319
+  label: 程巢父乃郎痢後風有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d80
+    span:
+    - body
+    - 18319
+    - 18662
+  label: 葉潤齋心膈嘈雜好啖肉尤好雞腹大痛蟲症也
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d81
+    span:
+    - body
+    - 18662
+    - 18783
+  label: 程相如令政孕七月患痢
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d82
+    span:
+    - body
+    - 18783
+    - 19183
+  label: 程曉山中風先兆有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d83
+    span:
+    - body
+    - 19183
+    - 19373
+  label: 程曉山令郎麻後疳症
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d84
+    span:
+    - body
+    - 19373
+    - 19631
+  label: 一婦疫後虛寒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d85
+    span:
+    - body
+    - 19631
+    - 20118
+  label: 從獻長郎七歲患痢疾後成疳有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d86
+    span:
+    - body
+    - 20118
+    - 20769
+  label: 侄孫子忠痢下紅膿如爛魚腸腹大痛日夜百次
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d87
+    span:
+    - body
+    - 20769
+    - 21033
+  label: 元素內人雙胎難產治奇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d88
+    span:
+    - body
+    - 21033
+    - 21278
+  label: 邵馬兄患嘔吐所吐皆如爛豬肺
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d89
+    span:
+    - body
+    - 21278
+    - 21656
+  label: 許卓峰上吐血下溲血咳嗽聲啞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d90
+    span:
+    - body
+    - 21656
+    - 21810
+  label: 族嫂汪氏患痢赤白嘔吐痰涎粒米不進二月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d91
+    span:
+    - body
+    - 21810
+    - 21929
+  label: 邵來儀丈令眷咳吐紅痰如桃花膿色
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d92
+    span:
+    - body
+    - 21929
+    - 22230
+  label: 程玄祖兄春溫食復僵寢如屍有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d93
+    span:
+    - body
+    - 22230
+    - 22302
+  label: 汪郎兄蟲痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d94
+    span:
+    - body
+    - 22302
+    - 22441
+  label: 查景川氣虛瘡疥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d95
+    span:
+    - body
+    - 22441
+    - 22603
+  label: 程玉吾內人妊七月內吹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d96
+    span:
+    - body
+    - 22603
+    - 22753
+  label: 一黃氏婦受身足月發癇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d97
+    span:
+    - body
+    - 22753
+    - 22870
+  label: 吳見南令郎心脾痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d98
+    span:
+    - body
+    - 22870
+    - 22951
+  label: 又令郎八歲疳積蟲痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d99
+    span:
+    - body
+    - 22951
+    - 23054
+  label: 侄女八歲腹高於胸咳嗽嘔吐甚則噴血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d100
+    span:
+    - body
+    - 23054
+    - 23362
+  label: 從兄䤾年五旬左脅痛手足抽搐不能步履
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d101
+    span:
+    - body
+    - 23362
+    - 23536
+  label: 小童上達脾虛發腫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d102
+    span:
+    - body
+    - 23536
+    - 23935
+  label: 族侄良詮血痢腹痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d103
+    span:
+    - body
+    - 23935
+    - 24133
+  label: 一婦胸膈有痰大便泄瀉大發寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d104
+    span:
+    - body
+    - 24133
+    - 24266
+  label: 從弟婦程氏右脅痛不能睡背心疼胸膈作梗痰中有血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d105
+    span:
+    - body
+    - 24266
+    - 24356
+  label: 黃懷虛原患吐血又咳嗽嘔吐左脅不能著席
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d106
+    span:
+    - body
+    - 24356
+    - 24454
+  label: 一族姐年六十咳嗽口渴常吐蛔蟲
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d107
+    span:
+    - body
+    - 24454
+    - 24570
+  label: 侄婦戴氏心痛徹背背痛徹心一發必七日
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d108
+    span:
+    - body
+    - 24570
+    - 24668
+  label: 老僕來興痰火上壅胸脅背心脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d109
+    span:
+    - body
+    - 24668
+    - 24932
+  label: 一婦生女不生子多思郁小便秘而不通轉脬症也治奇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d110
+    span:
+    - body
+    - 24932
+    - 25058
+  label: 昆池太學內人牙痛一晚暈厥三次
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d111
+    span:
+    - body
+    - 25058
+    - 25415
+  label: 一僕婦難產子宮墜出戶外半月不收治奇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d112
+    span:
+    - body
+    - 25415
+    - 25704
+  label: 侄孫媳程氏體肥經閉者八年
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d113
+    span:
+    - body
+    - 25704
+    - 26041
+  label: 熊成八官早起行路眼見邪火兩團滾來大被驚駭
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d114
+    span:
+    - body
+    - 26041
+    - 26596
+  label: 從侄中叔太學以暑月赴南雍一日轉斑出
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep016_jc_004-d6.d2d115
+    span:
+    - body
+    - 26596
+    - 27173
+  label: 程達庵四媳戴氏產半月而腿疼
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 11388
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 11388
+  label: 宜興治驗
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d2
+    span:
+    - body
+    - 6
+    - 1061
+  label: 徐學士檢老患腸風下血數桶後委頓而右脅極痛有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d3
+    span:
+    - body
+    - 1061
+    - 1358
+  label: 吳儀制主政尚卿先生患肺經痰火症更兼鼻衄
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d4
+    span:
+    - body
+    - 1358
+    - 1649
+  label: 宜光令君宋太夫人病胸腋脹痛予診左部俱散亂無緒兩尺無神予斷不治
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d5
+    span:
+    - body
+    - 1649
+    - 1806
+  label: 吳宮詹少溪先生以酒積致胃脘疼又加腰眼足跟肢節皆疼
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d6
+    span:
+    - body
+    - 1806
+    - 2317
+  label: 宜興令君胡太夫人七十二脾泄十五年不愈又加吐紅咳嗽多痰痰不易出有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d7
+    span:
+    - body
+    - 2317
+    - 2446
+  label: 曹同府東崗先生患右脅痛予以脈知其傷風傷食所致
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d8
+    span:
+    - body
+    - 2446
+    - 2594
+  label: 宜興令君胡鏡陽公上焦浮熱胃中食積痰飲又因勞心動火頭面瘡癤作疼
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d9
+    span:
+    - body
+    - 2594
+    - 2736
+  label: 吳鵡源先生咳嗽口乾腹中如火滾動不思飲食右脅痛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d10
+    span:
+    - body
+    - 2736
+    - 3041
+  label: 吳鶴洲先生太夫人八十六原有痰火大便日三四行夜兩起腸鳴臍腹膨脹脈三四至一止七八至一止人皆不治予獨起之
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d11
+    span:
+    - body
+    - 3041
+    - 3248
+  label: 吳鶴洲如夫人胃脘痛百治不效目為怪疾予作肝脾相勝之症治而愈
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d12
+    span:
+    - body
+    - 3248
+    - 3518
+  label: 曹宜崗常夢遺予語以神志不足又疝氣嘈雜食硬喉中作梗
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d13
+    span:
+    - body
+    - 3518
+    - 3624
+  label: 吳荊樵文學疝氣半年兩跨結核硬痛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d14
+    span:
+    - body
+    - 3624
+    - 3762
+  label: 吳鶴洲先生中焦有痰肺氣不足發瘧熱多寒少口渴小水不利體倦頭痛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d15
+    span:
+    - body
+    - 3762
+    - 3942
+  label: 吳雪舫先生左脅下紅塊大如雞子旁有小菩蕾作疼予作肝膽兩經有熱毒治而愈
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d16
+    span:
+    - body
+    - 3942
+    - 4097
+  label: 吳孝廉球泉先生心血不足胃中有痰下元陽氣不充
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d17
+    span:
+    - body
+    - 4097
+    - 4243
+  label: 李思椿胸膈脹痛痰有紫色瘀血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d18
+    span:
+    - body
+    - 4243
+    - 4437
+  label: 吳雙泉公病陽亢陰微之候上盛下虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d19
+    span:
+    - body
+    - 4437
+    - 4743
+  label: 李寅齋先生患血淋小水艱澀難出竅痛不可言二年不愈
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d20
+    span:
+    - body
+    - 4743
+    - 4931
+  label: 徐熙宇文學內眷前後心痛耳鳴眩暈嘔逆吐酸四肢痠軟
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d21
+    span:
+    - body
+    - 4931
+    - 4992
+  label: 湯簡庵封君素善飲致發腸風且心腎不交
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d22
+    span:
+    - body
+    - 4992
+    - 5059
+  label: 吳仰玄先生患胃脘痛痛徹於背痛時冷汗如雨
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d23
+    span:
+    - body
+    - 5059
+    - 5393
+  label: 粳芝崗文學酒後近內行採戰之法致成血淋
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d24
+    span:
+    - body
+    - 5393
+    - 5465
+  label: 吳中翰漢源先生腸風下血腹中微痛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d25
+    span:
+    - body
+    - 5465
+    - 5636
+  label: 吳大柱史安節公脾肺二經有痰火中焦有濕熱流於膀胱為淋濁
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d26
+    span:
+    - body
+    - 5636
+    - 5721
+  label: 吳官詹少溪翁有酒積而頻傷怒致右脅之火衝上作痛耳鳴眩暈大便艱澀
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d27
+    span:
+    - body
+    - 5721
+    - 6023
+  label: 吳孝廉球泉公內人痢疾後感寒而經至發熱口渴遍身疼等症
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d28
+    span:
+    - body
+    - 6023
+    - 6168
+  label: 吳西云先生庶母筋骨無力不能起止將成痿症
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d29
+    span:
+    - body
+    - 6168
+    - 6358
+  label: 蔣近思令郎脅痛氣促胸滿喉疼痰有血屑下午潮熱
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d30
+    span:
+    - body
+    - 6358
+    - 6518
+  label: 徐學士檢老正月食新蒜炒肉而又冒風寒咳嗽喉疼聲啞有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d31
+    span:
+    - body
+    - 6518
+    - 6889
+  label: 萬肅庵先生令郎發熱旬日口渴舌乾色如沉香
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d32
+    span:
+    - body
+    - 6889
+    - 7073
+  label: 大宗伯萬履老夫人右脅痛咳嗽喉干間吐紅腸鳴泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d33
+    span:
+    - body
+    - 7073
+    - 7337
+  label: 白仰云先生令眷觸怒暈厥手足冷汗如雨氣息微閉門合目靜坐一時始定
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d34
+    span:
+    - body
+    - 7337
+    - 7428
+  label: 吳心逸先生之使患勞倦傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d35
+    span:
+    - body
+    - 7428
+    - 7701
+  label: 吳文學霽陽先生以積學勞心而心肺之神不足
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d36
+    span:
+    - body
+    - 7701
+    - 7852
+  label: 宜興令君胡鏡陽公夫人患陰虛陽搏之候
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d37
+    span:
+    - body
+    - 7852
+    - 8631
+  label: 太史徐檢老向苦㿗疝而妨生育有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d38
+    span:
+    - body
+    - 8631
+    - 9140
+  label: 吳宮詹少溪翁以長君秋捷受賀過勞而傷飲食
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d39
+    span:
+    - body
+    - 9140
+    - 9829
+  label: 吳別駕勉齋翁體豐腴連跌而口眼歪邪左手足不能動
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d40
+    span:
+    - body
+    - 9829
+    - 10505
+  label: 少塚宰徐檢老以賀壽而臀生痔癰有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d41
+    span:
+    - body
+    - 10505
+    - 11047
+  label: 宮詹吳少翁患痢赤白兼下里急後重有發明
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep016_jc_005-d7.d2d42
+    span:
+    - body
+    - 11047
+    - 11388
+  label: 臧少庚年五十飲食不順利喉管中梗而難下
+  type: section
+  level: 3
+hash: sha256:20fdd3a27e85b10a4c251938c84035a0b435b70fcd12192eee011110d319208e
