@@ -28,7 +28,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR3ep016_001.markers.yaml, hash: 'sha256:59267617c34729eb9cb066244990e072f4111080aaf232112c8cdd46e98e67b8'}
   - {seq: 2, role: markers, filename: assets/KR3ep016_002.markers.yaml, hash: 'sha256:0346234aeefa0041ed711ad2276679d7920fc0a07039a7eac512ac48edeb80a6'}
   - {seq: 3, role: markers, filename: assets/KR3ep016_003.markers.yaml, hash: 'sha256:3f94a33db4ab91bc082027d189e4aa8b555ee829b1f1a46a54222d91a968c0d9'}
-  - {seq: 4, role: markers, filename: assets/KR3ep016_004.markers.yaml, hash: 'sha256:2c53e40f07755a0606e9785319b1284b5b83ae316720d9926f72b11cde13ef47'}
+  - {seq: 4, role: markers, filename: assets/KR3ep016_004.markers.yaml, hash: 'sha256:db09b042b6e49c927915e8a2f2ba049a1c7a4dafc3bb2ee503d2cc13d69d5a2c'}
   - {seq: 5, role: markers, filename: assets/KR3ep016_005.markers.yaml, hash: 'sha256:37705a812fc7b31d9b1d4d2e972a334838b6da01f33009e888aaa0d0b9571c84'}
 table_of_contents:
 - ref:
@@ -4111,7 +4111,7 @@ table_of_contents:
   label: 臧少庚年五十飲食不順利喉管中梗而難下
   type: section
   level: 3
-hash: sha256:3265d046017419b32aad5aaa3b78c17f73c24a9062a89dc151bbd7a1d9066ae5
+hash: sha256:577c57928f51c07a9169bc2cb1da5b3a01f00284315b454479ff66677f5a6716
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
